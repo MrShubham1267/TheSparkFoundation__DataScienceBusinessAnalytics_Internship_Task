@@ -9,3 +9,11 @@
 ### Task 2 - To Explore Unsupervised Machine Learning From the given ‘Iris’ dataset,we will predict the optimum number of clusters and represent it visually.
 
 #### Task 2 dataset- https://bit.ly/3kXTdox
+
+##### Task 3 - Perform "Exploratory Data Analysis" on the dataset "Superstore dataset".
+
+### Task 3 dataset- https://bit.ly/3i4rbWl
+
+#### Task 4 - Perform "Exploratory Data Analysis" on the dataset "Global Terrorism".
+
+### Task 4dataset- https://bit.ly/2TK5Xn5
