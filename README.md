@@ -22,5 +22,5 @@
 ## Internship Certificate
 
 <p>
-  <src="https://github.com/MrShubham1267/Data-Science-Business-Analytics-Internship-Task/blob/main/Certificate/Internship%20certificate.png?raw=true">
+  <<img src=https://github.com/MrShubham1267/Data-Science-Business-Analytics-Internship-Task/blob/main/Certificate/Internship%20certificate.png?raw=true">
 </p>
