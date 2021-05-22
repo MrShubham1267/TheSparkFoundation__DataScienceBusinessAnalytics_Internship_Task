@@ -17,3 +17,10 @@
 ### Task 4 - Perform "Exploratory Data Analysis" on the dataset "Global Terrorism".
 
 #### Task 4dataset- https://bit.ly/2TK5Xn5
+
+
+##Certificate
+
+<p>
+  <img width="250" align='right' src="https://github.com/MrShubham1267/Data-Science-Portfolio/blob/main/assets/coding.gif?raw=true">
+</p>
